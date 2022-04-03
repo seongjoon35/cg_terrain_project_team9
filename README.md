@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/83346568/161428615-34b05ce8-420f-4fbf-b779-10610c0acaba.png)
 
-## Camera()를 이용해 마우스를 누를 시 바다중앙을 확대하여 포커스를 맞추는 작업을 하였습니다.
+## Camera()를 이용해 마우스를 누를 시 바다중앙을 확대하여 포커스를 맞추기
 
 ![image](https://user-images.githubusercontent.com/83346568/161428694-1fba206d-d8be-4c74-a817-6bd0e766ee7d.png)
 
